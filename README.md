@@ -1,1 +1,1 @@
-# CFF
+# Tool for fun :>
